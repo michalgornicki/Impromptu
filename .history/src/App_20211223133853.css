@@ -1,0 +1,27 @@
+.w-15{
+    width: 15%!important;
+}
+
+.display-6{
+    font-size: 1rem;
+}
+
+.display-8{
+    font-size: 1rem;
+}
+
+.nav-link {
+    color: black!important;
+}
+
+.carousel img {
+    height: 90vh;
+    object-fit: cover;
+}
+
+.carousel-caption{
+    background-color: rgba(255, 255, 255, 0.5);
+    bottom: 10%!important;
+    width: 35%;
+    margin: auto;
+}
