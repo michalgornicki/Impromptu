@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/impromptu/static/css/main.f1739b05.css",
-    "main.js": "/impromptu/static/js/main.a0385003.js",
-    "static/js/787.2107fa01.chunk.js": "/impromptu/static/js/787.2107fa01.chunk.js",
-    "static/media/1.jpg": "/impromptu/static/media/1.9337c6c97a856cd66f13.jpg",
-    "static/media/5.jpg": "/impromptu/static/media/5.f307ecc7c7d602c29cbd.jpg",
-    "static/media/4.jpg": "/impromptu/static/media/4.22bc57026a4a0aa0057d.jpg",
-    "static/media/3.jpg": "/impromptu/static/media/3.113ea8306a4bb2bc75d0.jpg",
-    "static/media/2.jpg": "/impromptu/static/media/2.c79fa74ef257d14b2838.jpg",
-    "static/media/12.jpg": "/impromptu/static/media/12.adcc6e4207a97b25a1bd.jpg",
-    "static/media/13.jpg": "/impromptu/static/media/13.4f64b40603b32097ed00.jpg",
-    "static/media/10.jpg": "/impromptu/static/media/10.ca7bd2bb72f49c22882c.jpg",
-    "static/media/9.jpg": "/impromptu/static/media/9.1cde9c52883d299e000e.jpg",
-    "static/media/11.jpg": "/impromptu/static/media/11.095d1a6358045f41950c.jpg",
-    "static/media/6.jpg": "/impromptu/static/media/6.333aec41e37c44a60cba.jpg",
-    "static/media/7.jpg": "/impromptu/static/media/7.1a0316f776f8cc255b54.jpg",
-    "static/media/14.jpg": "/impromptu/static/media/14.eab3bef97e71f2d2aeaf.jpg",
-    "static/media/8.jpg": "/impromptu/static/media/8.442b77201f5b13256fd0.jpg",
-    "index.html": "/impromptu/index.html",
-    "main.f1739b05.css.map": "/impromptu/static/css/main.f1739b05.css.map",
-    "main.a0385003.js.map": "/impromptu/static/js/main.a0385003.js.map",
-    "787.2107fa01.chunk.js.map": "/impromptu/static/js/787.2107fa01.chunk.js.map"
+    "main.css": "/Impromptu/static/css/main.f1739b05.css",
+    "main.js": "/Impromptu/static/js/main.79e26423.js",
+    "static/js/787.2107fa01.chunk.js": "/Impromptu/static/js/787.2107fa01.chunk.js",
+    "static/media/1.jpg": "/Impromptu/static/media/1.9337c6c97a856cd66f13.jpg",
+    "static/media/5.jpg": "/Impromptu/static/media/5.f307ecc7c7d602c29cbd.jpg",
+    "static/media/4.jpg": "/Impromptu/static/media/4.22bc57026a4a0aa0057d.jpg",
+    "static/media/3.jpg": "/Impromptu/static/media/3.113ea8306a4bb2bc75d0.jpg",
+    "static/media/2.jpg": "/Impromptu/static/media/2.c79fa74ef257d14b2838.jpg",
+    "static/media/12.jpg": "/Impromptu/static/media/12.adcc6e4207a97b25a1bd.jpg",
+    "static/media/13.jpg": "/Impromptu/static/media/13.4f64b40603b32097ed00.jpg",
+    "static/media/10.jpg": "/Impromptu/static/media/10.ca7bd2bb72f49c22882c.jpg",
+    "static/media/9.jpg": "/Impromptu/static/media/9.1cde9c52883d299e000e.jpg",
+    "static/media/11.jpg": "/Impromptu/static/media/11.095d1a6358045f41950c.jpg",
+    "static/media/6.jpg": "/Impromptu/static/media/6.333aec41e37c44a60cba.jpg",
+    "static/media/7.jpg": "/Impromptu/static/media/7.1a0316f776f8cc255b54.jpg",
+    "static/media/14.jpg": "/Impromptu/static/media/14.eab3bef97e71f2d2aeaf.jpg",
+    "static/media/8.jpg": "/Impromptu/static/media/8.442b77201f5b13256fd0.jpg",
+    "index.html": "/Impromptu/index.html",
+    "main.f1739b05.css.map": "/Impromptu/static/css/main.f1739b05.css.map",
+    "main.79e26423.js.map": "/Impromptu/static/js/main.79e26423.js.map",
+    "787.2107fa01.chunk.js.map": "/Impromptu/static/js/787.2107fa01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1739b05.css",
-    "static/js/main.a0385003.js"
+    "static/js/main.79e26423.js"
   ]
 }
