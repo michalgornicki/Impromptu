@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Impromptu/static/css/main.50134561.css",
-    "main.js": "/Impromptu/static/js/main.8b3bc7c8.js",
+    "main.css": "/Impromptu/static/css/main.82249f1b.css",
+    "main.js": "/Impromptu/static/js/main.bbe9cb3d.js",
     "static/js/787.2107fa01.chunk.js": "/Impromptu/static/js/787.2107fa01.chunk.js",
     "static/media/1.jpg": "/Impromptu/static/media/1.fabe37948a5cb82c357d.jpg",
     "static/media/3.jpg": "/Impromptu/static/media/3.6338660dc10f9763727f.jpg",
@@ -21,12 +21,12 @@
     "static/media/14.jpg": "/Impromptu/static/media/14.eab3bef97e71f2d2aeaf.jpg",
     "static/media/8.jpg": "/Impromptu/static/media/8.442b77201f5b13256fd0.jpg",
     "index.html": "/Impromptu/index.html",
-    "main.50134561.css.map": "/Impromptu/static/css/main.50134561.css.map",
-    "main.8b3bc7c8.js.map": "/Impromptu/static/js/main.8b3bc7c8.js.map",
+    "main.82249f1b.css.map": "/Impromptu/static/css/main.82249f1b.css.map",
+    "main.bbe9cb3d.js.map": "/Impromptu/static/js/main.bbe9cb3d.js.map",
     "787.2107fa01.chunk.js.map": "/Impromptu/static/js/787.2107fa01.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50134561.css",
-    "static/js/main.8b3bc7c8.js"
+    "static/css/main.82249f1b.css",
+    "static/js/main.bbe9cb3d.js"
   ]
 }
