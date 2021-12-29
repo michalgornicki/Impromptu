@@ -553,7 +553,7 @@ function App() {
         </Row>
       </Container>
 
-      <Nav activeKey="/home" className="mt-5 pt-5 border-top">
+      <Nav activeKey="/home" className="mt-5 pt-5">
         <Row className="w-75 m-auto">
           <Col>
             <div className="display-7 mb-2">Pomoc i kontakt</div>

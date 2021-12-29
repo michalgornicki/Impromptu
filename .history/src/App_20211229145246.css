@@ -81,8 +81,8 @@ body{
 .up-icon{
     position: fixed;
     display:block;
-    right: 5%;
-    top: 85%;
+    right: 10%;
+    top: 80%;
     width: 4rem;
     padding: 1.5rem;
     background-color: rgba(255, 255, 255, 0.616);

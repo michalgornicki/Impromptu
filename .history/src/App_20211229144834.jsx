@@ -25,7 +25,7 @@ import photo14 from "./14.jpg";
 import photo15 from "./15.jpg";
 import photo16 from "./16.jpg";
 import photo17 from "./17.jpg";
-import up from "./up.png";
+import photo17 from "./17.jpg";
 
 function App() {
   return (
@@ -553,7 +553,7 @@ function App() {
         </Row>
       </Container>
 
-      <Nav activeKey="/home" className="mt-5 pt-5 border-top">
+      <Nav activeKey="/home" className="mt-5 pt-5 border">
         <Row className="w-75 m-auto">
           <Col>
             <div className="display-7 mb-2">Pomoc i kontakt</div>
@@ -680,9 +680,6 @@ function App() {
           </Col>
         </Row>
       </Nav>
-
-      <a href="#top">  <img src={up} alt="" className="up-icon shadow" /></a>
-
     </p>
   );
 }

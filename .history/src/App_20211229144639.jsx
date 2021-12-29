@@ -25,7 +25,6 @@ import photo14 from "./14.jpg";
 import photo15 from "./15.jpg";
 import photo16 from "./16.jpg";
 import photo17 from "./17.jpg";
-import up from "./up.png";
 
 function App() {
   return (
@@ -41,7 +40,7 @@ function App() {
           <Navbar.Brand className="text-bold px-2">IMPROMPTU.</Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
-            <Nav className="m-auto">
+            <Nav className="m-autoposition-fixed">
               <NavDropdown title="ONA" id="collasible-nav-dropdown">
                 <Row xl={3} xs={2}>
                   <Col>
@@ -553,7 +552,7 @@ function App() {
         </Row>
       </Container>
 
-      <Nav activeKey="/home" className="mt-5 pt-5 border-top">
+      <Nav activeKey="/home" className="mt-5 pt-5 border">
         <Row className="w-75 m-auto">
           <Col>
             <div className="display-7 mb-2">Pomoc i kontakt</div>
@@ -680,9 +679,6 @@ function App() {
           </Col>
         </Row>
       </Nav>
-
-      <a href="#top">  <img src={up} alt="" className="up-icon shadow" /></a>
-
     </p>
   );
 }
