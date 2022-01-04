@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.w-20{
+    width: 20%!important;
+}
+
+.w-33{
+    width: 33.333%!important;
+}
+
+.text-bold{
+    font-weight: 900!important;
+}
+
+.text-slim{
+    font-weight: 100!important;
+}
+
+.navbar-brand{
+    font-size: 1.8rem!important;
+    background-color: black;
+    color: white!important;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.display-7{
+    font-size: 1.3rem;
+}
+
+.display-8{
+    font-size: 1rem;
+}
+
+.nav-link {
+    color: black!important;
+}
+
+.carousel img {
+    height: 75vh;
+    object-fit: cover;
+}
+
+.carousel-caption{
+    background-color: rgba(255, 255, 255, 1);
+    bottom: 10%!important;
+    width: 25%;
+    margin: auto;
+}
+
+.bg-lightgray{
+    background-color: rgb(230, 230, 230);
+}
+
+.square-photo{
+    width: 100%;
+    transition: 0.5s;
+ filter: brightness(1);
+   }
+
+.square-photo:hover{
+ transform: scale(1.1);
+ filter: brightness(0.8);
+}
+
+.no-hover:hover{
+ transform: scale(1);
+}
+
+.dropdown-menu{
+    min-width:max-content!important;
+}
+
+.border-5{
+    border: 5px solid white;
+}
+
+.up-icon{
+    position: fixed;
+    display:block;
+    right: 5%;
+    top: 85%;
+    width: 4rem;
+    padding: 1.5rem;
+    background-color: rgba(255, 255, 255, 0.616);
+    border-radius: 100%;
+}
+
+.video{
+    position: relative;
+    width: 75%;
+    margin: auto;
+}
+
+.video-caption{
+    top: 40%;
+    z-index: 3;
+    left: 25%;
+}
+
+@media screen and (max-width: 800px) {
+    
+    .carousel-caption{
+        background-color: rgba(255, 255, 255, 1);
+        bottom: 10%!important;
+        width: 75%;
+        margin: auto;
+    }
+}

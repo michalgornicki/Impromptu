@@ -26,6 +26,7 @@ import photo15 from "./15.jpg";
 import photo16 from "./16.jpg";
 import photo17 from "./17.jpg";
 import up from "./up.png";
+import sample from "./sample.mp4";
 
 function App() {
   return (
@@ -486,6 +487,13 @@ function App() {
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
+
+      <Container className="mw-100 position-relative mobile-hide">
+      <video className="video my-5" autoPlay loop muted>
+        <source src={sample} type="video/mp4" />
+      </video>
+      <div className="display-1 position-absolute video-caption">KOLEKCJA WIOSNA 2022</div> 
+      </Container>
 
       <div className="mx-5 my-5 display-5">Nowości</div>
 
